@@ -1,0 +1,13 @@
+body {
+    padding-top: 70px;
+}
+.profile-img {
+    max-width: 150px;
+    border-radius: 50%;
+}
+.btn-activities {
+    margin-top: 20px;
+}
+.objectives {
+    margin-top: 30px;
+}
